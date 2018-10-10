@@ -46,6 +46,6 @@ h2 ol li:last-child {
   color: #2aa198;
 }
 
-ul .types:odd {
-  background-color: #657ba3
+#types ol li:nth-child(odd) {
+  background-color: #657ba3;
 }
