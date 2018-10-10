@@ -23,9 +23,13 @@ h2 {
 }
 
 .wrapper .dfn {
-  color: #b58900;
+  background-color: #b58900;
 }
 
 .dfn strong {
   color: #fff;
+}
+
+.no-highlight < a{
+  background-color: #719e07;
 }
