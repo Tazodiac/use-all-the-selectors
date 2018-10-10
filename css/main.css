@@ -18,6 +18,14 @@ nav ul {
   background-color: #eee8d5;
 }
 
-contents, favs, facts, types{
+h2 {
   color: #93a1a1;
+}
+
+.wrapper .dfn {
+  color: #b58900;
+}
+
+.dfn strong {
+  color: #fff;
 }
