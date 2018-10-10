@@ -30,12 +30,12 @@ h2 {
   color: #fff;
 }
 
-a - .no-highlight {
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-{
-
+[rel="external"]{
+  background-color: #2694d8
 }
 
 h2 ol li:first-child {
